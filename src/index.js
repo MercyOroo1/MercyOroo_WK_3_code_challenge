@@ -98,6 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             // if there are no more tickets remaining the "Buy Ticket" button text changes to "Sold Out" to indicate that the user can no longer purchase a ticket
                             let btn2 = document.querySelector("button#buy-ticket")
                             btn2.textContent = "Sold Out"
+                            btn2.disabled = true
                             let soldOutFilm = titleList.querySelector("li")
                             // the movie title whose tickets are sold out gets a class name of "sold out film item"
                             soldOutFilm.className = "sold out film item"

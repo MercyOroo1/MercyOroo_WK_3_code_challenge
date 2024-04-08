@@ -6,7 +6,7 @@
       "runtime": "108",
       "capacity": 30,
       "showtime": "04:00PM",
-      "tickets_sold": 26,
+      "tickets_sold": 30,
       "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
     },
@@ -39,16 +39,6 @@
       "tickets_sold": 31,
       "description": "A young man meets a farm girl who is actually a witch.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/43468/p43468_v_v8_aa.jpg"
-    },
-    {
-      "id": "5",
-      "title": "Santa Claus Conquers The Martians",
-      "runtime": "96",
-      "capacity": 50,
-      "showtime": "03:30PM",
-      "tickets_sold": 45,
-      "description": "The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
-      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/4232/p4232_v_v8_aa.jpg"
     },
     {
       "id": "6",
@@ -150,6 +140,21 @@
       "tickets_sold": 33,
       "description": "Delinquent teen-agers ingest a substance and grow thirty feet tall, then proceed to take over a small town.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/37991/p37991_v_v8_aa.jpg"
+    },
+    {
+      "id": "5ffc",
+      "film_id": "1",
+      "number_of_tickets": 2
+    },
+    {
+      "id": "66b3",
+      "film_id": "1",
+      "number_of_tickets": 1
+    },
+    {
+      "id": "3a9a",
+      "film_id": "1",
+      "number_of_tickets": 0
     }
   ]
 }
